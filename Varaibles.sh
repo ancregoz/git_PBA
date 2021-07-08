@@ -15,10 +15,11 @@ echo "A: $A | B: $B | C: $C"
 VAR1=`/bin/ls -l `
 echo "El valor de VAR1 es $VAR1 "
 
-
+VAR2=$(/bin/ls -lh )
+echo "El valor de VAR2 es $VAR2 "
 
 
 # Si al utilizar el valor de una variable, el nombre de variable esta seguido de un caracter que sea otra letra, numero o el simbolo '_', tendremos que utilizar los simbolos '{}' alrededor del nombre de la variable.
 
 FICHERO="registro"
-echo ${FICHERO}_2006.txt
+echo ${FICHERO}_2021.txt
