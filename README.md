@@ -19,4 +19,5 @@ Tambien puedo hacer el chorra
 6. lista
 
 
+ ![Tux, the Linux mascot](/images/tux.png)
 ### Editado el 2021-08-26
