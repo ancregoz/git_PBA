@@ -9,8 +9,8 @@ Texto en _italic_
 Texto en __*italinegritac*__
 Texto en **_italinegritac__**
 
-1 Lista
-2 lista
+1. Lista
+2. lista
 
 
 
